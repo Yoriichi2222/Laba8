@@ -13,7 +13,7 @@ Rare
 ![Alt text](telegram-cloud-document-2-5373150992357406351.jpg)
 
 ## Моё програмное решение
-```pyton
+```python
 def counter(func):
     def wrapper(*args, **kwargs):
         wrapper.count += 1
